@@ -1,0 +1,19 @@
+{
+  "name": "summit-banks-front-end",
+  "version": "1.0.0",
+  "description": "Frontend for the Summit Banks App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XPO5/summit-banks-front-end.git"
+  },
+  "author": "Brian Santillan, Harrison Stark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XPO5/summit-banks-front-end/issues"
+  },
+  "homepage": "https://github.com/XPO5/summit-banks-front-end#readme"
+}
